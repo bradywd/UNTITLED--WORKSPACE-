@@ -1,8 +1,8 @@
 body {
-    background-color: #82c0cc ;
+    background-color: #ede7e3 ;
 }
 header {
-    background-color: #82c0cc ;
+    background-color: #489fb5 ;
 }
 #content {
     max-width: 1600px;
@@ -10,7 +10,7 @@ header {
 }
 nav a {
     text-align: center ;
-    color: #489fb5 ;
+    color: #ffa62b ;
     text-decoration: none ;
 }
 nav a:hover {
@@ -37,12 +37,12 @@ h4 {
 }
 .book {
     background-color: #82c0cc ;
-    color: #489fb5 ;
+    color: black ;
     text-decoration: none ;
 }
 .join {
     background-color: #82c0cc ;
-    color: #489fb5 ;
+    color: black ;
     text-decoration: none ;
 }
 .book:hover {
@@ -51,26 +51,26 @@ h4 {
 }
 .join:hover {
     background-color: #82c0cc ;
-    color: #489fb5
+    color: black
 }
 main section {
     text-align: #82c0cc center
 }
 #background {
     height: 725px;
-    background-color:#ede7e3 ;
+    background-color:#82c0cc ;
 }
 .msg {
-    background-color: #82c0cc ;
+    background-color: #489fb5 ;
 }
 .msg h2 {
-    color: #489fb5
+    color: black
 }
 .msg p {
-    color: #489fb5
+    color: black
 }
 .footer {
-    background-color: #82c0cc ;
+    background-color: #489fb5 ;
 }
 .footer h3 {
     color: #489fb5 ;
