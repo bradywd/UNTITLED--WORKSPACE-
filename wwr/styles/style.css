@@ -1,3 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Hind+Siliguri&display=swap');
+
+:root {
+  /* change the values below to your colors from your palette */
+  --primary-color: #489fb5   ;
+  --secondary-color: #82c0cc ;
+  --accent1-color: #ffa62b;
+  --accent2-color: #ede7e3;
+
+  /* change the values below to your chosen font(s) */
+  --heading-font: "Audiowide";
+  --paragraph-font: Hind Siliguri, Helvetica, sans-serif;
+
+  /* these colors below should be chosen from among your palette colors above */
+  --headline-color-on-white: #489fb5;  /* headlines on a white background */ 
+  --headline-color-on-color: #ede7e3; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #489fb5; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #ede7e3; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #489fb5  ;
+  --nav-link-color: #489fb5;
+  --nav-background-color: #ffa62b;
+  --nav-hover-link-color: #ede7e3;
+  --nav-hover-background-color: #82c0cc;
+
 body {
     background-color: #ede7e3 ;
 }
@@ -18,7 +42,8 @@ nav a:hover {
     color: #489fb5
 }
 home-title {
-    color: #489fb5
+    color: #489fb5 ;
+    font-family: var(--heading-font);
 }
 h4 {
     color: #489fb5
@@ -27,37 +52,46 @@ h4 {
     width: 100%
 }
 #hero-msg h1 {
-    text-align: center
+    text-align: center ;
+    font-family: var(--paragraph-font);
 }
 #hero-msg h4 {
     text-align: center
+    font-family: var(--paragraph-font);
 }
 .button-box {
-    text-align: center
+    text-align: center ;
+    font-family: var(--paragraph-font);
 }
 main section {
-    text-align: center
+    text-align: center ;
+    font-family: var(--paragraph-font);
 }
 .book {
     background-color: #82c0cc ;
     color: black ;
     text-decoration: none ;
+    font-family: var(--paragraph-font);
 }
 .join {
     background-color: #82c0cc ;
     color: black ;
     text-decoration: none ;
+    font-family: var(--paragraph-font);
 }
 .book:hover {
     background-color: #82c0cc ;
     color: #489fb5
+    font-family: var(--paragraph-font);
 }
 .join:hover {
     background-color: #82c0cc ;
     color: black
+    font-family: var(--paragraph-font);
 }
 main section {
     text-align: center
+    font-family: var(--paragraph-font);
 }
 #background {
     height: 725px;
@@ -68,24 +102,29 @@ main section {
 }
 .msg h2 {
     color: black
+    font-family: var(--heading-font);
 }
 .msg p {
-    color: black
+    color: black ;
+    font-family: var(--paragraph-font);
 }
 footer {
     background-color: #489fb5 ;
 }
 .footer h3 {
     color: #489fb5 ;
-    text-decoration: underline
+    text-decoration: underline ;
+    font-family: var(--paragraph-font);
 }
 .footer a {
     color: #489fb5 ;
-    text-decoration: none 
+    text-decoration: none ;
+    font-family: var(--paragraph-font);
 }
 .footer a:hover {
     color: #489fb5 ;
-    text-decoration: underline
+    text-decoration: underline ;
+    font-family: var(--paragraph-font);
 }
 .logo {
     width: 80px;
