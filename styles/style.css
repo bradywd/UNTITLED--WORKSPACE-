@@ -2,6 +2,18 @@
 
 body {
     background-color: #ede7e3 ;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+.home-title {
+    color: #489fb5 ;
+    font-family: 'Audiowide', 'Bradley Hand', sans-serif;
+    font-size: 2em ;
+}
+h2{
+    margin: 0;
 }
 header {
     background-color: #489fb5 ;
@@ -14,69 +26,70 @@ nav a {
     text-align: center ;
     color: #ffa62b ;
     text-decoration: none ;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 nav a:hover {
     background-color: #82c0cc ;
     color: #489fb5
 }
-home-title {
-    color: #489fb5 ;
-    font-family: 'Audiowide', 'Bradley Hand', sans-serif;
-}
 h4 {
-    color: #489fb5
+    color: black ;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 #hero-img {
     width: 100%
 }
 #hero-msg h1 {
     text-align: center ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 #hero-msg h4 {
     text-align: center ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 .button-box {
     text-align: center ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 main section {
     text-align: center ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 .book {
     background-color: #82c0cc ;
     color: black ;
     text-decoration: none ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
+    font-size: 18px;
 }
 .join {
     background-color: #82c0cc ;
     color: black ;
     text-decoration: none ;
     font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-size: 18px;
 }
 .book:hover {
     background-color: #82c0cc ;
     color: #489fb5 ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 .join:hover {
     background-color: #82c0cc ;
     color: black ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 main section {
     text-align: center ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 #background {
     height: 725px;
     background-color:#82c0cc ;
 }
 .msg {
-    background-color: #489fb5 ;
+    background-color: #489fb5;
+    line-height: 1.5em;
 }
 .msg h2 {
     color: black ;
@@ -84,25 +97,26 @@ main section {
 }
 .msg p {
     color: black ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
+    font-size: .8em;
 }
 footer {
-    background-color: #489fb5 ;
+    background-color: #489fb5;
 }
 .footer h3 {
     color: #489fb5 ;
     text-decoration: underline ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 .footer a {
     color: #489fb5 ;
     text-decoration: none ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 .footer a:hover {
     color: #489fb5 ;
     text-decoration: underline ;
-    font-family: 'Hind Siliguri' , Helvetica, sans-serif;
+    font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 .logo {
     width: 80px;
