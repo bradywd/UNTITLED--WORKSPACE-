@@ -157,9 +157,9 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
-.footer h3 {
-    color: #489fb5 ;
-    text-decoration: underline ;
+h3 a {
+    color: black ;
+    text-decoration: none ;
     font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 .footer a {
@@ -178,6 +178,9 @@ footer {
 }
 .social {
     padding-top: 15px;
+}
+.social a {
+    text-decoration: none ;
 }
 .card-img {
     border: 8px solid #ffa62b;
