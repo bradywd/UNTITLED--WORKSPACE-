@@ -248,7 +248,8 @@ h3 a {
     font-size: 4 em;
     padding-top: 70px;
     padding-bottom: 30px;
-    grid-column: 4/11;
+    grid-column: 4/10;
+    content: center;
     grid-row: 1;
 }
 .mainfork-msg {
@@ -271,7 +272,8 @@ h3 a {
     font-size: 4 em;
     padding-top: 70px;
     padding-bottom: 30px;
-    grid-column: 4/11;
+    content: center;
+    grid-column: 4/10;
     grid-row: 3;
 }
 .desolation-msg {
@@ -298,7 +300,8 @@ h3 a {
     font-size: 4 em;
     padding-top: 70px;
     padding-bottom: 30px;
-    grid-column: 4/11;
+    grid-column: 4/10;
+    content: center;
     grid-row: 5;
 }
 .grandcanyon-msg {
