@@ -245,11 +245,9 @@ h3 a {
 .mainfork-title {
     color: black ;
     font-family: 'Audiowide', 'Bradley Hand', sans-serif;
-    font-size: 4 em;
     padding-top: 70px;
     padding-bottom: 30px;
     grid-column: 4/10;
-    content: center;
     grid-row: 1;
 }
 .mainfork-msg {
@@ -269,10 +267,8 @@ h3 a {
 .desolation-title {
     color: black ;
     font-family: 'Audiowide', 'Bradley Hand', sans-serif;
-    font-size: 4 em;
     padding-top: 70px;
     padding-bottom: 30px;
-    content: center;
     grid-column: 4/10;
     grid-row: 3;
 }
@@ -297,11 +293,9 @@ h3 a {
 .grandcanyon-title {
     color: black ;
     font-family: 'Audiowide', 'Bradley Hand', sans-serif;
-    font-size: 4 em;
     padding-top: 70px;
     padding-bottom: 30px;
     grid-column: 4/10;
-    content: center;
     grid-row: 5;
 }
 .grandcanyon-msg {
