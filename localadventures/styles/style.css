@@ -49,7 +49,6 @@ h2 {
 #hero {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    margin-top: -100px; 
 }
 #hero-box {
     grid-column: 1/6;
