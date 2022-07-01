@@ -100,6 +100,12 @@ main section img {
     font-family: 'Hind Siliguri', Helvetica, sans-serif;
 }
 #background {
+    height: 725px;
+    background-color:#f2e8cf;
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
+#backgroundtablerock {
     height: 1595px;
     background-color:#f2e8cf;
     grid-column: 16/24;
