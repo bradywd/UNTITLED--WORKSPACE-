@@ -372,13 +372,13 @@ h4 {
     }
     .strech-img {
         margin: 50px auto;
-        width: 120%;
+        width: 100%;
         grid-row: 9 ;
         grid-column: 2/24 ;
     }
     .hike-img {
         margin: 50px auto;
-        width: 200%;
+        width: 100%;
         grid-row: 10 ;
         grid-column: 2/24 ;
     }
