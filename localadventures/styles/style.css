@@ -365,17 +365,14 @@ h4 {
         width: 60%;
     }
     .face-img {
-        margin: 50px auto;
         grid-row: 8 ;
         grid-column: 2/24 ;
     }
     .strech-img {
-        margin: 50px auto;
         grid-row: 9 ;
         grid-column: 2/24 ;
     }
     .hike-img {
-        margin: 50px auto;
         grid-row: 10 ;
         grid-column: 2/24 ;
     }
