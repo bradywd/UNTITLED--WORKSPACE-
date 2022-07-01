@@ -362,7 +362,9 @@ h4 {
     }
     .tablerock-card, .whiteclouds-card, .face-img, .strech-img, .hike-img { 
         margin: 50px auto;
-        width: 60%;
+    }
+    .first-title, .first-msg, .second-title, .second-msg, .third-title, .third-msg {
+        grid-column: 2/24;
     }
     #background {
         display: none;
