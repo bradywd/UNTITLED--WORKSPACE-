@@ -366,15 +366,18 @@ h4 {
     }
     .face-img {
         margin: 50px auto;
-        grid-row: 8
+        grid-row: 8 ;
+        grid-column: 2/24 ;
     }
     .strech-img {
         margin: 50px auto;
-        grid-row: 9
+        grid-row: 9 ;
+        grid-column: 2/24 ;
     }
     .hike-img {
         margin: 50px auto;
-        grid-row: 10
+        grid-row: 10 ;
+        grid-column: 2/24 ;
     }
     .first-title, .first-msg, .second-title, .second-msg, .third-title, .third-msg {
         grid-column: 2/24;
