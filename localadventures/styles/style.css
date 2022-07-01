@@ -360,8 +360,21 @@ h4 {
         font-size: 25px;
         color: #6f7364;
     }
-    .tablerock-card, .whiteclouds-card, .face-img, .strech-img, .hike-img { 
+    .tablerock-card, .whiteclouds-card { 
         margin: 50px auto;
+        width: 60%;
+    }
+    .face-img {
+        margin: 50px auto;
+        grid-row: 8
+    }
+    .strech-img {
+        margin: 50px auto;
+        grid-row: 9
+    }
+    .hike-img {
+        margin: 50px auto;
+        grid-row: 10
     }
     .first-title, .first-msg, .second-title, .second-msg, .third-title, .third-msg {
         grid-column: 2/24;
