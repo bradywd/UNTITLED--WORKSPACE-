@@ -338,7 +338,7 @@ h4 {
         height: auto;
     }
     h4 {
-        font-size: 1 em;
+        font-size: 25px;
     }
     nav, footer {
         flex-direction: column;
@@ -360,7 +360,7 @@ h4 {
         font-size: 25px;
         color: #6f7364;
     }
-    .tablerock-card, .whiteclouds-card { 
+    .tablerock-card, .whiteclouds-card, .face-img, .strech-img, .hike-img { 
         margin: 50px auto;
         width: 60%;
     }
