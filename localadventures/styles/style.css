@@ -337,6 +337,9 @@ h4 {
         display: block;
         height: auto;
     }
+    h4 {
+        font-size: 1 em;
+    }
     nav, footer {
         flex-direction: column;
     }
@@ -362,6 +365,9 @@ h4 {
         width: 60%;
     }
     #background {
+        display: none;
+    }
+    #backgroundtablerock {
         display: none;
     }
     .backpacker, .msg {
