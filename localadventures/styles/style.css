@@ -412,7 +412,7 @@ h4 {
     color: black ;
     font-family: 'Hind Siliguri', Helvetica, sans-serif;
     font-size: .8em;
-    padding-bottom: -15px;
+    padding-bottom: 0px;
 }
 .fourth-title {
     background-color: #f2e8cf;
@@ -470,7 +470,7 @@ h4 {
     color: black ;
     font-family: 'Hind Siliguri', Helvetica, sans-serif;
     font-size: .8em;
-    padding-bottom: -10px;
+    padding-bottom: 0px;
 }
 
 
