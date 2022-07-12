@@ -255,17 +255,19 @@ h3 a:hover {
     box-shadow: 5px 5px 10px #6f7364;
 }
 .fifth-img {
-    margin: 360px 60px;
+    margin-top: 250px;
+    margin-left: 60px;
     grid-column: 16/22;
-    grid-row: 10/13;
+    grid-row: 11;
     width: 100%;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
 }
 .sixth-img {
-    margin: 630px 60px;
+    margin-top: 630px;
+    margin-left: 60px;
     grid-column: 16/22;
-    grid-row: 11/14;
+    grid-row: 11;
     width: 100%;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
